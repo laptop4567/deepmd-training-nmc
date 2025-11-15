@@ -1,5 +1,7 @@
 # DeepMD Training for Ni-rich NMC Cathodes
 
+[![DOI](https://zenodo.org/badge/1097141640.svg)](https://doi.org/10.5281/zenodo.17618776)
+
 This repository contains a self-contained Jupyter workflow to train and validate a Deep Potential (DeePMD) model for Ni-rich NMC cathode materials directly from a single VASP `OUTCAR` file.
 
 The example in this repository uses the file:
