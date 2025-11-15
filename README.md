@@ -10,7 +10,7 @@ The code and workflow were used in the paper:
 
 > **"Enhancement of stability and electronic properties of ultra-high nickel cathodes by aluminium and boron codoping studied by combined density functional theory and neural network models"**  
 > Published in **RSC** (Royal Society of Chemistry).  
-> *(Please add the DOI and full citation information here.)*
+> *(We will add the DOI and full citation information here when available.)*
 
 If you use this repository, model, or workflow, please cite the paper above.
 
@@ -196,7 +196,7 @@ If you use this workflow, dataset, or trained models, please cite:
 
 > **"Enhancement of stability and electronic properties of ultra-high nickel cathodes by aluminium and boron codoping studied by combined density functional theory and neural network models"**,  
 > Royal Society of Chemistry (RSC), [Year].  
-> *(Add authors, journal name, volume, pages, and DOI.)*
+> *(We will add the DOI and full citation information here when available.)*
 
 ---
 
