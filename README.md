@@ -8,13 +8,15 @@ The example in this repository uses the file:
 
 - `MD_075NMC622_500step-300K` (VASP `OUTCAR` format)
 
-The code and workflow were used in the paper:
+The code and workflow were used in the following peer-reviewed publication:
 
-> **"Enhancement of stability and electronic properties of ultra-high nickel cathodes by aluminium and boron codoping studied by combined density functional theory and neural network models"**  
-> Published in **RSC** (Royal Society of Chemistry).  
-> *(We will add the DOI and full citation information here when available.)*
+> **Nguyen Vo Anh Duy, Tran Van Thien, Nguyen Thi Bao Trang, Nguyen Huu Phuc,  
+> To Van Nguyen, Truong Minh Thai, Yoshiyuki Kawazoe, and Minh Triet Dang.**  
+> *Enhancement of stability and electronic properties of ultra-high nickel cathodes by aluminium and boron codoping studied by combined density functional theory and neural network models.*  
+> **RSC Advances**, 2025.  
+> DOI: [10.1039/D5RA03510D](https://doi.org/10.1039/D5RA03510D)
 
-If you use this repository, model, or workflow, please cite the paper above.
+If you use this repository, model, or workflow, please cite the publication above.
 
 ---
 
@@ -194,11 +196,25 @@ You can place your LAMMPS input scripts and auxiliary files in the `02_lmp/` fol
 
 ## 5. Citation
 
-If you use this workflow, dataset, or trained models, please cite:
+If you use this workflow, dataset, notebook, or trained models in your research,  
+please cite the following peer-reviewed publication where this workflow was used:
 
-> **"Enhancement of stability and electronic properties of ultra-high nickel cathodes by aluminium and boron codoping studied by combined density functional theory and neural network models"**,  
-> Royal Society of Chemistry (RSC), [Year].  
-> *(We will add the DOI and full citation information here when available.)*
+> **Nguyen Vo Anh Duy, Tran Van Thien, Nguyen Thi Bao Trang, Nguyen Huu Phuc,  
+> To Van Nguyen, Truong Minh Thai, Yoshiyuki Kawazoe, and Minh Triet Dang.**  
+> *Enhancement of stability and electronic properties of ultra-high nickel cathodes by aluminium and boron codoping studied by combined density functional theory and neural network models.*  
+> **RSC Advances**, 2025.  
+> DOI: [10.1039/D5RA03510D](https://doi.org/10.1039/D5RA03510D)
+
+BibTeX entry:
+
+```bibtex
+@article{duy2025ultrahighnickel,
+  title={Enhancement of stability and electronic properties of ultra-high nickel cathodes by aluminium and boron codoping studied by combined density functional theory and neural network models},
+  author={Nguyen Vo Anh Duy and Tran Van Thien and Nguyen Thi Bao Trang and Nguyen Huu Phuc and To Van Nguyen and Truong Minh Thai and Yoshiyuki Kawazoe and Minh Triet Dang},
+  journal={RSC Advances},
+  year={2025},
+  doi={10.1039/D5RA03510D}
+}
 
 ---
 
